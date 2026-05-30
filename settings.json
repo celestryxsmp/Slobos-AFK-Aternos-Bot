@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "15.235.217.54:10148",
+    "ip": "celestryx.mcsh.io",
     "port": 10148,
     "version": "",
     "try-creative": false
